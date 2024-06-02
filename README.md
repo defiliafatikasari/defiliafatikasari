@@ -38,7 +38,6 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=092E20)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 <br>
