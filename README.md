@@ -54,7 +54,6 @@
 ## 🤝 Let's connect!
 If you have any questions/feedback, you can call me or send me an email on:
 
-<a href="https://mail.google.com/mail/u/0/#inbox"><img align="left" width="25" height="25" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/email.svg" alt="Tika/Defi | E-mail" width="21px"/></a>
 <a href="https://www.linkedin.com/in/defilia-fatikasari-760b3026b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Tika/Defi | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/im_dftikasr18/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Tika/Defi | Instagram" width="21px"/></a>
 
