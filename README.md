@@ -30,6 +30,7 @@
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=TailwindCSS&color=06B6D4)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
@@ -41,11 +42,11 @@
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=092E20)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=777BB4)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&color=FF2D20)
-[![](https://img.shields.io/badge/Tools-Composer-informational?style=flat&logo=Composer&color=885630)] 
-[![](https://img.shields.io/badge/Tools-XAMPP-informational?style=flat&logo=XAMPP&color=FB7A24)] 
-[![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&color=4479A1)] 
-[![](https://img.shields.io/badge/Tools-DBeaver-informational?style=flat&logo=DBeaver&color=372921)]
-[![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=MariaDB&color=003545)]
+![](https://img.shields.io/badge/Tools-Composer-informational?style=flat&logo=Composer&color=885630)
+![](https://img.shields.io/badge/Tools-XAMPP-informational?style=flat&logo=XAMPP&color=FB7A24)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&color=4479A1)
+![](https://img.shields.io/badge/Tools-DBeaver-informational?style=flat&logo=DBeaver&color=372921)
+![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=MariaDB&color=003545)
 ![](https://img.shields.io/badge/Design-UI/UX-informational?style=flat&logo=AdobeXD&color=FF61F6)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-Microsoft_Office-informational?style=flat&logo=Microsoft&color=0078D4)  
@@ -54,6 +55,7 @@
 ![](https://img.shields.io/badge/Editing-CapCut-informational?style=flat&logo=CapCut&color=000000)  
 ![](https://img.shields.io/badge/Business-Entrepreneurship-informational?style=flat&logo=Shopify&color=7AB55C)  
 ![](https://img.shields.io/badge/Marketing-Digital_Marketing-informational?style=flat&logo=GoogleAds&color=4285F4)
+![](https://img.shields.io/badge/Skills-Writer-informational?style=flat&logo=GoogleDocs&color=4285F4)
 
 
 <br>
