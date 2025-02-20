@@ -1,27 +1,29 @@
 <h1 align="center">Defilia Fatikasari</h1>
 
 
-<h3 align="center">Front-End Developer and UI / UX Designers</h3>
+<h3 align="center">Front-End Developer | UI/UX Designer | Digital Marketer | Administrator | Writer | Design dan Editing | Business Entrepreneur</h3>
 
 <br>
 
-<p>I am a student from Indonesia, who likes developing Websites and Designing Web UI, I enjoy working and trying in my spare time to improve my knowledge and skills. I can also share a lot of ideas and I enjoy learning new things.</p>
+<p>I am a student from Indonesia who has interests and expertise in various fields in the world of IT, including Front-End Development, UI/UX Design, Digital Marketing, Administration, Writing, Design and Editing, and Entrepreneurship. I enjoy developing websites, designing attractive user interfaces, and working in the digital industry. In addition, I have skills in administrative management and writing. I always try to improve my knowledge and skills in my free time and enjoy the process of learning new things and sharing ideas with others.</p>
 
 <br>
 
 ## 🎯 Currently out target is to expertise on
 - 🌐 Web Development
-- 🌐 UI / UX
+- 🎨 UI/UX 
 - 📱 Mobile Development
+- ✍️ Writer
 
 <br>
 
 
 ## 🌱 Currently we learning and focusing on
-- Django
-- PHP
-- React JS
-- React Native
+- 🐍 Python - Django
+- 🛠️ PHP - Laravel
+- ⚛️ React JS
+- 📱 React Native
+- 🎨 UI/UX - Figma
 
 <br>
 
