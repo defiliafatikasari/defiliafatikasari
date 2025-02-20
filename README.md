@@ -39,8 +39,16 @@
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=092E20)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=777BB4)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&color=FF2D20)
+![](https://img.shields.io/badge/Design-UI/UX-informational?style=flat&logo=AdobeXD&color=FF61F6)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+![](https://img.shields.io/badge/Tools-Microsoft_Office-informational?style=flat&logo=Microsoft&color=0078D4)  
+![](https://img.shields.io/badge/Design-Canva-informational?style=flat&logo=Canva&color=00C4CC)  
+![](https://img.shields.io/badge/Design-CorelDRAW-informational?style=flat&logo=CorelDRAW&color=00A97F)  
+![](https://img.shields.io/badge/Editing-CapCut-informational?style=flat&logo=CapCut&color=000000)  
+![](https://img.shields.io/badge/Business-Entrepreneurship-informational?style=flat&logo=Shopify&color=7AB55C)  
+![](https://img.shields.io/badge/Marketing-Digital_Marketing-informational?style=flat&logo=GoogleAds&color=4285F4)
 
 
 <br>
