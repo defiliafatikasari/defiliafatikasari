@@ -39,6 +39,7 @@
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=092E20)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&color=FF2D20)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 
 
@@ -53,7 +54,7 @@
 <br>
     
 ## 🤝 Let's connect!
-If you have any questions/feedback, you can call me or send me an email on:
+If you have any questions/feedback, you can call me or message me at:
 
 <a href="https://www.linkedin.com/in/defilia-fatikasari-760b3026b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Tika/Defi | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/im_dftikasr18/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Tika/Defi | Instagram" width="21px"/></a>
