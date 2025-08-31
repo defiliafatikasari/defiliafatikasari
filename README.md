@@ -1,7 +1,7 @@
 <h1 align="center">Defilia Fatikasari</h1>
 
 
-<h3 align="center">Front-End Developer | UI/UX Designer | Digital Marketer | Administrator | Writer | Design dan Editing | Business Entrepreneur</h3>
+<h3 align="center">Front-End Web Developer | Mobile UI/UX Designer | Writer | Business Entrepreneur</h3>
 
 <br>
 
@@ -9,7 +9,7 @@
 
 <br>
 
-## 🎯 Currently out target is to expertise on
+## 🎯 Currently my target is to gain expertise in
 - 🌐 Web Development
 - 🎨 UI/UX 
 - 📱 Mobile Development
@@ -18,11 +18,11 @@
 <br>
 
 
-## 🌱 Currently we learning and focusing on
-- 🐍 Python - Django
+## 🌱 Currently I am studying and focusing on
 - 🛠️ PHP - Laravel
 - ⚛️ React JS
 - 📱 React Native
+- 🐍 Python - Django
 - 🎨 UI/UX - Figma
 
 <br>
