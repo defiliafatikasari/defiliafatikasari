@@ -1,80 +1,181 @@
-<h1 align="center">Defilia Fatikasari</h1>
+# <h1 align="center">Hi 👋, I'm Defilia Fatikasari</h1>
 
+<h3 align="center">
+Data Scientist | AI & Machine Learning Enthusiast | Front-End Web Developer | UI/UX Designer | Tech Writer
+</h3>
 
-<h3 align="center">Front-End Web Developer | Mobile UI/UX Designer | Writer | Business Entrepreneur</h3>
+<p align="center">
+Passionate about transforming ideas into intelligent digital solutions through Data Science, Artificial Intelligence, and Modern Web Development.
+</p>
 
-<br>
+---
 
-<p>I am a student from Indonesia who has interests and expertise in various fields in the world of IT, including Front-End Development, UI/UX Design, Digital Marketing, Administration, Writing, Design and Editing, and Entrepreneurship. I enjoy developing websites, designing attractive user interfaces, and working in the digital industry. In addition, I have skills in administrative management and writing. I always try to improve my knowledge and skills in my free time and enjoy the process of learning new things and sharing ideas with others.</p>
+## 👩‍💻 About Me
 
-<br>
+I am an Informatics Engineering student from Indonesia with a strong passion for **Data Science**, **Artificial Intelligence**, **Machine Learning**, and **Web Development**. I enjoy transforming data into meaningful insights, building intelligent applications, and developing modern, responsive websites with excellent user experiences.
 
-## 🎯 Currently my target is to gain expertise in
-- 🌐 Web Development
-- 🎨 UI/UX 
-- 📱 Mobile Development
-- ✍️ Writer
+Beyond software development, I have experience in **UI/UX Design**, **scientific writing**, **digital marketing**, **administrative management**, and **entrepreneurship**. I am committed to continuous learning, exploring emerging technologies, and contributing to impactful digital innovations.
 
-<br>
+---
 
+## 🎯 Career Goals
 
-## 🌱 Currently I am studying and focusing on
-- 🛠️ PHP - Laravel
-- ⚛️ React JS
-- 📱 React Native
-- 🐍 Python - Django
-- 🎨 UI/UX - Figma
+* 📊 Data Science
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 🚀 Deep Learning
+* 🌐 Full Stack Web Development
+* 📱 Mobile Development
+* 🎨 UI/UX Design
+* ✍️ Scientific & Technical Writing
 
-<br>
+---
 
-## 💼 Technical Skills
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=TailwindCSS&color=06B6D4)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=092E20)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=777BB4)
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&color=FF2D20)
-![](https://img.shields.io/badge/Tools-Composer-informational?style=flat&logo=Composer&color=885630)
-![](https://img.shields.io/badge/Tools-XAMPP-informational?style=flat&logo=XAMPP&color=FB7A24)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&color=4479A1)
-![](https://img.shields.io/badge/Tools-DBeaver-informational?style=flat&logo=DBeaver&color=372921)
-![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=MariaDB&color=003545)
-![](https://img.shields.io/badge/Design-UI/UX-informational?style=flat&logo=AdobeXD&color=FF61F6)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-Microsoft_Office-informational?style=flat&logo=Microsoft&color=0078D4)  
-![](https://img.shields.io/badge/Design-Canva-informational?style=flat&logo=Canva&color=00C4CC)  
-![](https://img.shields.io/badge/Design-CorelDRAW-informational?style=flat&logo=CorelDRAW&color=00A97F)  
-![](https://img.shields.io/badge/Editing-CapCut-informational?style=flat&logo=CapCut&color=000000)  
-![](https://img.shields.io/badge/Business-Entrepreneurship-informational?style=flat&logo=Shopify&color=7AB55C)  
-![](https://img.shields.io/badge/Marketing-Digital_Marketing-informational?style=flat&logo=GoogleAds&color=4285F4)
-![](https://img.shields.io/badge/Skills-Writer-informational?style=flat&logo=GoogleDocs&color=4285F4)
+## 🌱 Currently Learning
 
+* 🐍 Python
+* 📊 Data Science
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 🚀 Deep Learning
+* 📈 Time Series Forecasting
+* 📊 Streamlit
+* 📒 Jupyter Notebook
+* ☁️ Google Colab
+* ⚛️ React JS
+* 📱 React Native
+* 🛠️ PHP Laravel
+* 🐍 Django
+* 🎨 Figma
 
-<br>
+---
 
-## 📈 GitHub Stats
+# 💼 Technical Skills
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=defiliafatikasari)](https://github.com/defiliafatikasari)
+## 💻 Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defiliafatikasari&layout=compact)](https://github.com/defiliafatikasari)
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
 
-<br>
-    
-## 🤝 Let's connect!
-If you have any questions/feedback, you can call me or message me at:
+---
 
-<a href="https://www.linkedin.com/in/defilia-fatikasari-760b3026b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Tika/Defi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/im_dftikasr18/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Tika/Defi | Instagram" width="21px"/></a>
+## ⚙️ Frameworks & Libraries
 
-<br>
-<br>
+![](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
+![](https://img.shields.io/badge/React_Native-61DAFB?style=flat\&logo=react\&logoColor=black)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel\&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
+![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
 
-<h2 align="center"> Thank You </h2>
+---
+
+## 📊 Data Science & Artificial Intelligence
+
+![](https://img.shields.io/badge/Data_Science-FF6F00?style=flat)
+![](https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat)
+![](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)
+![](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
+![](https://img.shields.io/badge/Time_Series_Forecasting-2196F3?style=flat)
+![](https://img.shields.io/badge/Intelligent_Systems-6C63FF?style=flat)
+![](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat\&logo=jupyter\&logoColor=white)
+![](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat\&logo=googlecolab\&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat\&logo=streamlit\&logoColor=white)
+
+---
+
+## 🗄️ Database
+
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![](https://img.shields.io/badge/MariaDB-003545?style=flat\&logo=mariadb\&logoColor=white)
+
+---
+
+## 🛠️ Development Tools
+
+![](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![](https://img.shields.io/badge/NPM-CB3837?style=flat\&logo=npm\&logoColor=white)
+![](https://img.shields.io/badge/Composer-885630?style=flat\&logo=composer\&logoColor=white)
+![](https://img.shields.io/badge/XAMPP-FB7A24?style=flat\&logo=xampp\&logoColor=white)
+![](https://img.shields.io/badge/DBeaver-372921?style=flat)
+
+---
+
+## 🎨 Design & Productivity
+
+![](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+![](https://img.shields.io/badge/UI/UX-FF61F6?style=flat)
+![](https://img.shields.io/badge/Canva-00C4CC?style=flat\&logo=canva\&logoColor=white)
+![](https://img.shields.io/badge/CorelDRAW-00A97F?style=flat)
+![](https://img.shields.io/badge/CapCut-000000?style=flat\&logo=capcut\&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Office-0078D4?style=flat\&logo=microsoft\&logoColor=white)
+
+---
+
+## 📈 Other Skills
+
+![](https://img.shields.io/badge/Digital_Marketing-4285F4?style=flat)
+![](https://img.shields.io/badge/Scientific_Writing-4285F4?style=flat)
+![](https://img.shields.io/badge/Entrepreneurship-7AB55C?style=flat)
+
+---
+
+# 🚀 Featured Projects
+
+* 🌱 **Soil Moisture Prediction using Random Forest, GRU & Transformer**
+* 💻 **Hybrid Learning Management System (Hybrid LMS)**
+* 📱 **Smart Information Training & Courses**
+* 🛍️ **DF Services Platform**
+* 🌐 **Web & Mobile Application Development**
+* 🎨 **UI/UX Design Projects**
+
+---
+
+# 📚 Research Interests
+
+* 📊 Data Science
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 🚀 Deep Learning
+* 📈 Time Series Forecasting
+* 🌱 Smart Agriculture
+* 🌦️ Climate Data Analytics
+* 🛰️ Remote Sensing
+* 💡 Intelligent Systems
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=defiliafatikasari&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defiliafatikasari&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/defilia-fatikasari-760b3026b/
+
+📷 **Instagram**
+https://www.instagram.com/im_dftikasr18/
+
+🐙 **GitHub**
+https://github.com/defiliafatikasari
+
+---
+
+<h2 align="center">✨ Thanks for visiting my GitHub Profile! ✨</h2>
+
+<p align="center">
+Always learning, always building, and always growing. 🚀
+</p>
