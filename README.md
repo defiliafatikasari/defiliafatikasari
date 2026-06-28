@@ -161,7 +161,7 @@ Beyond software development, I have experience in **UI/UX Design**, **scientific
 
 # 🤝 Let's Connect
 
-📧 **Email:** [your-email@example.com](mailto:defiliatika@gmail.com)
+📧 **Email:** [defiliatika@gmail.com](mailto:defiliatika@gmail.com)
 
 💼 **LinkedIn**
 https://www.linkedin.com/in/defilia-fatikasari-760b3026b/
