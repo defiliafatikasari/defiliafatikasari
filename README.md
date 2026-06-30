@@ -153,7 +153,7 @@ Beyond software development, I have experience in **UI/UX Design**, **scientific
 # 📈 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=defiliafatikasari&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=defiliafatikasari&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defiliafatikasari&layout=compact&theme=tokyonight"/>
 </p>
 
