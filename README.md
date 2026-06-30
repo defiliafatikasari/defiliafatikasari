@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Defilia Fatikasari</h1>
 
 <h3 align="center">
-Data Scientist | AI & Machine Learning Enthusiast | Front-End Web Developer | UI/UX Designer | Tech Writer
+Data Scientist | Artificial Intelligence, Machine Learning, & Deep Learning Enthusiast | Front-End Web Developer | UI/UX Designer | Writer
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ Passionate about transforming ideas into intelligent digital solutions through D
 
 ## 👩‍💻 About Me
 
-I am an Informatics Engineering student from Indonesia with a strong passion for **Data Science**, **Artificial Intelligence**, **Machine Learning**, and **Web Development**. I enjoy transforming data into meaningful insights, building intelligent applications, and developing modern, responsive websites with excellent user experiences.
+I am an Informatics Engineering student from Indonesia with a strong passion for **Data Science**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Web Development**. I enjoy transforming data into meaningful insights, building intelligent applications, and developing modern, responsive websites with excellent user experiences.
 
 Beyond software development, I have experience in **UI/UX Design**, **scientific writing**, **digital marketing**, **administrative management**, and **entrepreneurship**. I am committed to continuous learning, exploring emerging technologies, and contributing to impactful digital innovations.
 
@@ -128,7 +128,7 @@ Beyond software development, I have experience in **UI/UX Design**, **scientific
 # 🚀 Featured Projects
 
 * 🌱 **Soil Moisture Prediction using Random Forest, GRU & Transformer**
-* 💻 **Hybrid Learning Management System (Hybrid LMS)**
+* 💻 **Sistem Pinjam Ruang (SIPINANG)**
 * 📱 **Smart Information Training & Courses**
 * 🛍️ **DF Services Platform**
 * 🌐 **Web & Mobile Application Development**
